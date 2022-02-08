@@ -14,5 +14,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "laminas/laminas-escaper": "2.10.x-dev"
+    }
 }
