@@ -2,6 +2,7 @@
     "name": "gumbili/rangkai",
     "description": "A Minimalistic PHP Layouting Library",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Gumbili\\Rangkai\\": "src/"
