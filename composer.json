@@ -1,7 +1,7 @@
 {
     "name": "gumbili/rangkai",
     "description": "A PHP Layouting Library",
-    "type": "n",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Gumbili\\Rangkai\\": "src/"
