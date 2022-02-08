@@ -1,6 +1,6 @@
 {
     "name": "gumbili/rangkai",
-    "description": "A PHP Layouting Library",
+    "description": "A Minimalistic PHP Layouting Library",
     "type": "library",
     "autoload": {
         "psr-4": {
