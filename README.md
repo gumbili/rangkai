@@ -6,14 +6,14 @@
 
 You can easily add the Rangkai Library to your PHP project by running composer installation command like this:
 ```bash
-composer require gumbili/rangkai
+composer require kykurniawan/rangkai
 ```
 Make sure you are load the autoload file from vendor folder.
 When it is installed, you can display the page in the following way.
 ```php
 <?php
 
-use Gumbili\Rangkai\Rangkai;
+use Kykurniawan\Rangkai\Rangkai;
 
 // Create new Rangkai instance with provided views path where we store the view file.
 $rangkai = new Rangkai('Views');

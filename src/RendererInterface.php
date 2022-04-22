@@ -1,6 +1,6 @@
 <?php
 
-namespace Gumbili\Rangkai;
+namespace Kykurniawan\Rangkai;
 
 /**
  * Interface RendererInterface

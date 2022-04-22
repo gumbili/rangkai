@@ -1,6 +1,6 @@
 <?php
 
-namespace Gumbili\Rangkai;
+namespace Kykurniawan\Rangkai;
 
 use Laminas\Escaper\Escaper;
 use RuntimeException;

@@ -1,17 +1,17 @@
 {
-    "name": "gumbili/rangkai",
+    "name": "kykurniawan/rangkai",
     "description": "A Minimalistic PHP Layouting Library",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Gumbili\\Rangkai\\": "src/"
+            "Kykurniawan\\Rangkai\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Gumbili Project",
-            "email": "gumbiliproject@gmail.com"
+            "name": "Rizky Kurniawan",
+            "email": "contact.rizkykurniawan@gmail.com"
         }
     ],
     "minimum-stability": "dev",
